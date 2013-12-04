@@ -1,0 +1,16 @@
+{
+  "name": "generator-example",
+  "version": "0.0.1",
+  "description": "Example plug-in for Photoshop Generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelrbrandt/generator-example.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "main.js",
+  "generator-core-version": ">0.0.1",
+  "dependencies": {
+    "generator-core": "~2.0.1-dev"
+  }
+}
