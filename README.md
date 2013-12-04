@@ -18,6 +18,8 @@
 
 7. Do stuff in Photoshop. Watch stuff print out to your console!
 
+8. Hack on it! Right now, the best documentation is to [Use The Source, Luke](https://github.com/adobe-photoshop/generator-core/blob/master/lib/generator.js)
+
 ### License
 
 (MIT License)
