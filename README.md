@@ -1,6 +1,22 @@
 ## Generator-Example
 
-Example plugin for Generator
+"Hello World" plugin for [Generator](https://github.com/adobe-photoshop/generator-core), a Node-based extensibility layer for Adobe Photoshop.
+
+### Taking it for a spin
+
+1. Install the latest version of Photoshop CC (currently 14.1.2). You can try it for free by following a "Try" link here: http://www.adobe.com/products/photoshop.html
+
+2. Launch Photoshop CC. Go into Photoshop's preferences, choose the "Plug-Ins" tab, and enable "Remote Connections" in the Generator section. Set a password, too!
+
+3. Install the Generator command-line interface with `npm install -g generator-cli`
+
+4. Clone this repo with `git clone https://github.com/joelrbrandt/generator-example.git`
+
+5. Inside the cloned directory, run `npm install`
+
+6. Inside the same directory, launch generator with `generator -P [your password]`
+
+7. Do stuff in Photoshop. Watch stuff print out to your console!
 
 ### License
 
